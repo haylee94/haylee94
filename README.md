@@ -17,11 +17,9 @@
 
 <h3 align="center">💻 Follow Me 💻</h3>
 <p align="center">
-  <a href=“https://www.notion.so/b90314e98ec84ebaa87fc2cb1e35cc5d?pvs=4”>
-    <img src=“https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white”&link=“https://www.notion.so/b90314e98ec84ebaa87fc2cb1e35cc5d?pvs=4”"/>
-  </a>&nbsp
-
-  <a href="mailto:baeeura94@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=baeeura94@gmail.com"/></a>
+ 
+<a href="mailto:medicine94@naver.com "><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white"/></a>&nbsp;
+<a href="mailto:baeeura94@gmail.com "><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
 </p>
 
 <br>
