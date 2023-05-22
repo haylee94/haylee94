@@ -23,8 +23,17 @@
 </p>
 
 <br>
+ 
+--------
+  
+<h3 align="center">🌱 I’m currently learning ...</h3>
+<p align="center">  
+python, SQL, FLASK, TensorFlow, NLP, Spark, Django...
+</p>
 <br>
 
+
+--------
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
